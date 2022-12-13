@@ -24,7 +24,7 @@ Use it freely but please do not republish, distribute or sell "as-is".
 Follow me on : 
 -<a href"#">Github</a>
 -<a href"#">Twitter</a>
--<a href"#">Codepen</a>
+<a href"https://codepen.io/_AC3">Codepen</a>
 -<a href"#">Linkedin</a>
 
 ---
