@@ -22,9 +22,9 @@ Use it freely but please do not republish, distribute or sell "as-is".
 
 <h1>Follow me On : </h1>
 Follow me on : 
--<a href"#">Github</a>
--<a href"#">Twitter</a>
+<a href="https://codepen.io/_AC3">CodePen</a>
+<a href"#">Twitter</a>
 <a href"https://codepen.io/_AC3">Codepen</a>
--<a href"#">Linkedin</a>
+<a href"#">Linkedin</a>
 
 ---
