@@ -22,9 +22,9 @@ Use it freely but please do not republish, distribute or sell "as-is".
 
 <h1>Follow me On : </h1>
 Follow me on : 
-<a href="https://codepen.io/_AC3">CodePen</a>
-<a href="https://github.com/codewithace-Asher">Github</a>
-<a href="www.linkedin.com/in/codewithace-asher">Linkedin</a>
-<a href="https://twitter.com/asher_dev_">Twitter</a>
+<a href="https://codepen.io/_AC3" target="blank">CodePen</a>
+<a href="https://github.com/codewithace-Asher" target="blank">Github</a>
+<a href="www.linkedin.com/in/codewithace-asher" target="blank">Linkedin</a>
+<a href="https://twitter.com/asher_dev_" target="blank">Twitter</a>
 
 ---
