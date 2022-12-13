@@ -10,6 +10,9 @@
 
 ![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a97fd9a6d1b99cf3a16fdbb0aa0834c815f2cce7/codewithace-screenshot.jpg)
 
+---
+Brief intorduction for Portfolio , a work in progress - mainly Front-End focused. 
+
 <h1>Credit to : </h1>
 - codewithsadee
 - YT Kevin Powell
