@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://codepen.io/_AC3/full/eYKaXKZ/a788ebe2c2dbf8db31b84c2854fb8086">Link to Portfolio via CodePen (@media queries to be updated)</a>
+<a href="https://codepen.io/_AC3/full/eYKaXKZ/a788ebe2c2dbf8db31b84c2854fb8086" target="_blank">Link to Portfolio via CodePen (@media queries to be updated)</a>
 
 ---
 
