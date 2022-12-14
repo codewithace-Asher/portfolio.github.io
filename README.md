@@ -14,6 +14,7 @@
 Brief introduction for Portfolio , a work in progress - mainly Front-End focused. 
 
 <h1>Credit to : </h1>
+- Code + ( Learning People Global)
 - codewithsadee
 - YT Kevin Powell
 
