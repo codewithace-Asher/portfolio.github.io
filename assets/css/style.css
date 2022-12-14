@@ -170,7 +170,7 @@ body {
 
 .btn-primary.blue { background-color: var(--klein-blue); }
 
-.btn-primary.blue :is(:hover, :focus) { background-color: var(--orange-soda);}
+.btn-primary.blue:is(:hover, :focus) { background-color: var(--orange-soda); }
 
 .img-cover {
   width: 100%;
