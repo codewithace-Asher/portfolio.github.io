@@ -8,7 +8,7 @@
 
 ---
 
-![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a97fd9a6d1b99cf3a16fdbb0aa0834c815f2cce7/codewithace-screenshot.jpg)
+![screenshot](file:///C:/Users/asher/OneDrive/Desktop/GitHub/portfolio.github.io/codewithace-screenshot.jpg)
 
 ---
 Brief introduction for Portfolio , a work in progress - mainly Front-End focused. 
