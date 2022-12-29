@@ -12,7 +12,7 @@
 ![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a87629f7b0e780aa43b11c338f00aa324d695017/codewithace-screenshot.jpg)
 
 ---
-<p align="center">Brief Introduction for Portfolio , Showcasing Current Pojects - Front-End Focused.</p>
+<p align="center">Brief Introduction for Portfolio , Showcasing Current Projects - Front-End Focused.</p>
 
 <h3 align="center">Credit to : </h3>
 <p align="center">
