@@ -5,7 +5,7 @@
 
 ---
 
-<a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank"><p align="center">Portfolio</p></a>
+<p align="center"><a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank">Portfolio</p>
 
 ---
 
