@@ -14,12 +14,12 @@
 Brief introduction for Portfolio , a work in progress - mainly Front-End focused. 
 
 <h1>Credit to : </h1>
-- Code + ( Learning People Global)
-- codewithsadee
+- Code + ( Learning People Global)<br>
+- codewithsadee<br>
 - YT Kevin Powell
 
 <h1>Content & Media : </h1>
-- Adobe Creative Cloud ( Dreamweaver , Illustrator)
+- Adobe Creative Cloud ( Dreamweaver , Illustrator)<br>
 - Canva
 
 <h1>License : </h1>
@@ -28,9 +28,9 @@ Use it freely but please do not republish, distribute or sell "as-is".
 
 <h1>Follow me On : </h1>
 Follow me on : 
-<a href="https://codepen.io/_AC3" target="blank">CodePen</a>
-<a href="https://github.com/codewithace-Asher" target="blank">Github</a>
-<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank">Linkedin</a>
-<a href="https://twitter.com/asher_dev_" target="blank">Twitter</a>
+<a href="https://codepen.io/_AC3" target="blank">CodePen</a><br>
+<a href="https://github.com/codewithace-Asher" target="blank">Github</a><br>
+<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank">Linkedin</a><br>
+<a href="https://twitter.com/asher_dev_" target="blank">Twitter</a><br>
 
 ---
