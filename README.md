@@ -1,7 +1,8 @@
 <h1 align="center">codewithace - (Asher) Static Portfolio</h1>
-<h3 align="center">Personal Static Portfolio</h3>>
+<h3 align="center">Personal Static Portfolio</h3>
 
 <p align="center"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
+
 ---
 
 <a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank"></a>
